@@ -1,0 +1,8 @@
+{
+  "name": "Copy of STLMAS Marketplace",
+  "description": "A premium marketplace for high-quality 3D printable STL files, featuring shop galleries, product details, checkout, and seller upload functionality.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
